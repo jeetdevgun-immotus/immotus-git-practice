@@ -160,3 +160,24 @@ After-session work:
 
 
 
+## 2026-07-07 — Python Restart Day 1
+
+### What I learned
+- print() shows something on the screen.
+- A string is text inside quotes.
+- A variable is a name that stores something.
+- print(name) prints the value stored inside the variable.
+- print("name") prints the actual word name.
+
+### What confused me
+- At first VS Code/Pylance showed "Expected expression" because extra formatting/backticks may have been copied.
+- After typing only valid Python code, it worked.
+
+### Practice completed
+- Printed simple text.
+- Created variables for name, company, and service.
+- Understood the difference between variable names and quoted text.
+
+### Next revision
+- Revise print(), strings, and variables once.
+- Next session: input() — taking information from the user.
