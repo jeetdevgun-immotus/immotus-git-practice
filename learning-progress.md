@@ -160,24 +160,101 @@ After-session work:
 
 
 
+\## Python Restart Day 2 - Input and Client Calculator
+
+
+
+Completed:
+
+\- Practiced input()
+
+\- Practiced multiple inputs
+
+\- Learned that input() returns text/string
+
+\- Learned why age + 1 caused a TypeError
+
+\- Fixed it using int(input())
+
+\- Built monthly/yearly loss calculator
+
+\- Built client problem calculator / client intake summary
+
+\- Committed and pushed day2\_input.py to GitHub
+
+
+
+Key lesson:
+
+input() always gives text. If I need a number, I must convert it using int(input()).
+
+
+
+Business connection:
+
+A client problem should be connected to money impact. Monthly loss × 12 shows yearly business impact.
+
 ## 2026-07-07 — Python Restart Day 1
 
 ### What I learned
-- print() shows something on the screen.
-- A string is text inside quotes.
-- A variable is a name that stores something.
-- print(name) prints the value stored inside the variable.
-- print("name") prints the actual word name.
+
+* print() shows something on the screen.
+* A string is text inside quotes.
+* A variable is a name that stores something.
+* print(name) prints the value stored inside the variable.
+* print("name") prints the actual word name.
 
 ### What confused me
-- At first VS Code/Pylance showed "Expected expression" because extra formatting/backticks may have been copied.
-- After typing only valid Python code, it worked.
+
+* At first VS Code/Pylance showed "Expected expression" because extra formatting/backticks may have been copied.
+* After typing only valid Python code, it worked.
 
 ### Practice completed
-- Printed simple text.
-- Created variables for name, company, and service.
-- Understood the difference between variable names and quoted text.
+
+* Printed simple text.
+* Created variables for name, company, and service.
+* Understood the difference between variable names and quoted text.
 
 ### Next revision
-- Revise print(), strings, and variables once.
-- Next session: input() — taking information from the user.
+
+* Revise print(), strings, and variables once.
+* Next session: input() — taking information from the user.
+
+
+
+
+
+\## Python Restart Day 2 - Input and Client Calculator
+
+
+
+Completed:
+
+\- Practiced input()
+
+\- Practiced multiple inputs
+
+\- Learned that input() returns text/string
+
+\- Learned why age + 1 caused a TypeError
+
+\- Fixed it using int(input())
+
+\- Built monthly/yearly loss calculator
+
+\- Built client problem calculator / client intake summary
+
+\- Committed and pushed day2\_input.py to GitHub
+
+
+
+Key lesson:
+
+input() always gives text. If I need a number, I must convert it using int(input()).
+
+
+
+Business connection:
+
+A client problem should be connected to money impact. Monthly loss × 12 shows yearly business impact.
+
