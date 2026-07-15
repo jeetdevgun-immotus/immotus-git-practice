@@ -258,3 +258,18 @@ Business connection:
 
 A client problem should be connected to money impact. Monthly loss × 12 shows yearly business impact.
 
+## Python Restart Day 3 - Decisions
+
+Completed:
+- Learned if
+- Learned else
+- Learned elif
+- Learned indentation
+- Learned = means assign/store
+- Learned == means compare
+- Tested adult/minor decision
+- Tested password comparison
+- Tested high, medium and lower business priority
+
+Key lesson:
+Python checks conditions from top to bottom and runs the first matching block.
