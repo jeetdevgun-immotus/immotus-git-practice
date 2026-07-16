@@ -273,3 +273,22 @@ Completed:
 
 Key lesson:
 Python checks conditions from top to bottom and runs the first matching block.
+
+## Python Restart Day 4 - Boolean Logic
+
+Completed:
+- Learned comparison operators: >, <, >=, <=, == and !=
+- Learned that comparisons return True or False
+- Learned and: both conditions must be True
+- Learned or: at least one condition must be True
+- Learned not: reverses a Boolean value
+- Practiced predefined Boolean values and intermediate variables
+
+Key lessons:
+- and = both conditions must be True
+- or = at least one condition must be True
+- not = opposite
+- Boolean values are True and False
+
+Note:
+The purpose of not is not fully comfortable yet. Revisit it later through a real-life example.
