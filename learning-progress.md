@@ -292,3 +292,31 @@ Key lessons:
 
 Note:
 The purpose of not is not fully comfortable yet. Revisit it later through a real-life example.
+
+## Python Restart — Day 5
+
+**Date:** 17 July 2026
+**Status:** Completed
+
+### Topics covered
+
+* Used `for` loops to repeat code.
+* Learned how `range(start, stop)` works.
+* Learned that the stopping number is not included.
+* Used a third `range()` value to control the step.
+* Counted backwards using a negative step.
+* Looped through names stored inside a list.
+* Combined a `for` loop with `if` and `else`.
+* Learned that `[]` creates a list containing multiple items.
+* Reinforced that `()` is used when calling functions such as `print()` and `range()`.
+
+### Important understanding
+
+* `range(2, 11, 2)` does not automatically find even numbers. It starts at 2 and jumps forward by 2.
+* Indentation is required to show which code belongs inside a loop or condition.
+* Spaces after commas are optional but make code easier to read.
+* Python prints capitalization exactly as it was typed.
+
+### Practice file
+
+* `day5_for_loops.py`
