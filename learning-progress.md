@@ -320,3 +320,36 @@ The purpose of not is not fully comfortable yet. Revisit it later through a real
 ### Practice file
 
 * `day5_for_loops.py`
+
+
+## Python Restart — Day 6
+
+**Date:** 20 July 2026
+**Status:** Completed
+
+### Topics covered
+
+* Learned how a `while` loop repeats while a condition remains `True`.
+* Compared `for` loops with `while` loops.
+* Counted forwards and backwards using `while`.
+* Reinforced that a variable holds one current value.
+* Learned that assigning a new value replaces the previous value.
+* Used `input()` inside a `while` loop.
+* Used `int(input())` to accept and validate a number.
+* Learned `break` to stop a loop immediately.
+* Learned `continue` to skip the rest of the current loop round.
+* Learned nested loops: one loop inside another.
+* Practised tracing code from top to bottom, one line at a time.
+
+### Important understanding
+
+* `=` stores or replaces a value.
+* `==` checks whether two values are equal.
+* `break` leaves the loop immediately.
+* `continue` skips to the next loop round.
+* In a nested loop, the outer value stays fixed while the inner loop completes.
+* Python automatically returns to the loop condition after reaching the end of the indented loop code.
+
+### Practice file
+
+* `day6_while_loops.py`
