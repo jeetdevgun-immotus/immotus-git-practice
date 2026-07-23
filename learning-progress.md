@@ -353,3 +353,13 @@ The purpose of not is not fully comfortable yet. Revisit it later through a real
 ### Practice file
 
 * `day6_while_loops.py`
+
+## Python Restart Day 7 — Functions
+
+- Learned how to define and call functions.
+- Used single and multiple parameters.
+- Understood the difference between parameters and arguments.
+- Learned that arguments are passed into parameters by position.
+- Used `return` to send calculated values out of functions.
+- Stored returned values in variables and reused them in further calculations.
+- Built monthly savings and client project cost calculators.
