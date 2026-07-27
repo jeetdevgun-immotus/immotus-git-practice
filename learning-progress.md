@@ -363,3 +363,16 @@ The purpose of not is not fully comfortable yet. Revisit it later through a real
 - Used `return` to send calculated values out of functions.
 - Stored returned values in variables and reused them in further calculations.
 - Built monthly savings and client project cost calculators.
+
+## Python Restart Day 8 - Dictionaries continued
+
+Covered:
+- Checking whether a key exists using `in`
+- Looping through dictionary keys
+- Accessing values with `client[key]`
+- Looping through key-value pairs using `.items()`
+- Using dictionary values inside `if/else` conditions
+
+Paused here:
+- Dictionaries mostly understood.
+- Next session: small dictionary practice project before moving to the next topic.
