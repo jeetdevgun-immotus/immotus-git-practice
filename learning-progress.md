@@ -376,3 +376,21 @@ Covered:
 Paused here:
 - Dictionaries mostly understood.
 - Next session: small dictionary practice project before moving to the next topic.
+
+## Python Restart Day 8 — Dictionaries
+
+Completed:
+- Understood dictionaries as labelled collections of related information
+- Created dictionaries using curly brackets
+- Understood keys and values
+- Read dictionary values using square brackets
+- Added, updated, and deleted key-value pairs
+- Used .get() with fallback values
+- Checked keys using in
+- Looped through dictionary data
+- Used .items()
+- Used dictionary values inside if/elif/else
+- Stored multiple client dictionaries inside a list
+- Looped through multiple clients
+- Added lead_status to each client dictionary
+- Built a multi-client lead assessment program
