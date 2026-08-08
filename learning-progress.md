@@ -394,3 +394,18 @@ Completed:
 - Looped through multiple clients
 - Added lead_status to each client dictionary
 - Built a multi-client lead assessment program
+
+## Python Restart Day 9 — JSON
+
+Completed:
+- Understood JSON as a data format used to exchange and store structured data.
+- Converted Python dictionaries to JSON strings using `json.dumps()`.
+- Converted JSON strings back to Python dictionaries using `json.loads()`.
+- Saved Python dictionaries into `.json` files using `json.dump()`.
+- Read `.json` files back into Python using `json.load()`.
+- Learned that the `s` in `dumps` and `loads` refers to strings.
+- Learned that `dump` and `load` work directly with files.
+- Used `with open()` with `"w"` for write mode and `"r"` for read mode.
+- Used `indent=4` to format JSON neatly.
+- Practised JSON using client, enquiry, and order data.
+- Learned that Python `True`, `False`, and `None` become JSON `true`, `false`, and `null`.
