@@ -409,3 +409,12 @@ Completed:
 - Used `indent=4` to format JSON neatly.
 - Practised JSON using client, enquiry, and order data.
 - Learned that Python `True`, `False`, and `None` become JSON `true`, `false`, and `null`.
+
+Day 10 - Files in Python
+- Opened and worked with text files using with open()
+- Used "w" for write mode
+- Used "r" for read mode
+- Used "a" for append mode
+- Used .write() and .read()
+- Read files line by line with a for loop
+- Practiced with client_notes.txt and client_log.txt
