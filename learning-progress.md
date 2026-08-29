@@ -418,3 +418,6 @@ Day 10 - Files in Python
 - Used .write() and .read()
 - Read files line by line with a for loop
 - Practiced with client_notes.txt and client_log.txt
+
+Day 11 - Error Handling
+Completed try/except, ValueError, ZeroDivisionError, multiple exception handlers, input validation, and try/except/else.
