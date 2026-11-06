@@ -421,3 +421,76 @@ Day 10 - Files in Python
 
 Day 11 - Error Handling
 Completed try/except, ValueError, ZeroDivisionError, multiple exception handlers, input validation, and try/except/else.
+
+## Python Restart Day 12 — Modules and Imports
+
+Completed:
+- Imported Python modules using import.
+- Practised import aliases using as.
+- Used from ... import to import specific functions.
+- Understood standard library versus third-party modules.
+- Created and imported immotus_tools.py.
+- Added __pycache__/ to .gitignore.
+
+## Python Restart Day 13 — Classes and Objects
+
+Partially completed:
+- Created a Car class.
+- Created multiple objects from the same class.
+- Assigned and retrieved object attributes.
+- Practised __init__ and self.
+- Created objects using constructor arguments.
+
+Note:
+- __init__ and self need further revision.
+- Advanced object-oriented Python is postponed.
+- Priority shifted to APIs and n8n for revenue-first automation.
+
+## Python Day 14 — HTTP and APIs
+Date: 5–6 November 2026
+
+Completed:
+- Understood HTTP requests and responses.
+- Learned GET, POST, PUT, and DELETE methods.
+- Learned common HTTP status codes.
+- Installed and used the requests library.
+- Made successful HTTP GET requests.
+- Retrieved JSON data from a public testing API.
+- Converted JSON responses into Python dictionaries and lists.
+- Used query parameters to filter API results.
+- Processed 20 API records using a for loop.
+- Made successful HTTP POST requests.
+- Sent a Python dictionary as JSON using json=new_post.
+- Received HTTP 201 Created responses.
+- Used if/else to check HTTP status codes.
+- Debugged an incorrect status-code comparison.
+- Introduced HTTP headers and API authentication.
+
+Files:
+- day14_api_get.py
+- day14_api_post.py
+
+Security:
+- Used public testing data only.
+- Included a timeout in API requests.
+- Avoided storing credentials and API keys in code.
+- Further network-error handling remains to be learned.
+
+## Next Learning Checkpoint — n8n Day 1
+
+Status: Ready to begin.
+
+Next steps:
+1. Set up n8n.
+2. Understand workflows, triggers, and nodes.
+3. Build a Manual Trigger -> HTTP Request workflow.
+4. Make a GET request using n8n.
+5. Inspect the returned JSON data.
+6. Progress towards practical business automations.
+
+Career objective:
+- Immotus Advisory revenue-first implementation.
+- Learn n8n and build client-ready automations.
+- Start acquiring paying clients independently.
+- Return to the long-term secure AI implementation,
+  security, and governance roadmap (v3.4.2).
