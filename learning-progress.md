@@ -494,3 +494,34 @@ Career objective:
 - Start acquiring paying clients independently.
 - Return to the long-term secure AI implementation,
   security, and governance roadmap (v3.4.2).
+
+
+## 10 November 2026 — n8n Day 1
+
+### Completed
+- Created Immotus Advisory's n8n Cloud workspace.
+- Learned workflows, nodes, and manual triggers.
+- Built a three-node workflow:
+  Manual Trigger → HTTP Request → Edit Fields.
+- Used HTTP GET to retrieve JSON from a public test API.
+- Inspected JSON data and understood n8n items.
+- Used `{{ $json.title }}` for dynamic field mapping.
+- Successfully tested mapping with two different API responses.
+- Saved the workflow in n8n.
+- Copied the workflow nodes and connections into
+  `n8n_day1_first_api_get.json`.
+- Validated the JSON using Python.
+- Checked the JSON for sensitive information.
+
+### Security
+- Used public test data without API credentials.
+- Reviewed MCP access settings.
+- No obvious secrets found in the copied JSON.
+
+### Pending
+- Obtain a complete n8n workflow export.
+- Learn additional triggers, conditions, and error handling.
+- Progress toward business automation projects.
+
+### Status
+n8n Day 1 — First working automation completed.
